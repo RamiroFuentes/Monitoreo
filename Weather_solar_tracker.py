@@ -12,7 +12,7 @@ Pendientes:
 DESACTIVADA LA SALIDA DE DATOS POR TERMINAL
 print('\n\nUBICACION\n Pais=',country_add,'\n Latitud=',coords_add[1],'\n Longitud=',coords_add[0])
 print('\n\nCLIMA\n El clima es=',main_add,',',description_add)
-print('\n\nTEMPERATURA\n Temperatura=',temp_add,'ºc','\n Temperatura maxima=',temp_max_add,'ºc','\n Temperatura minima=',temp_min_add,'ºc')
+print('\n\nTEMPERATURA\n Temperatura=',temp_add,'c','\n Temperatura maxima=',temp_max_add,'c','\n Temperatura minima=',temp_min_add,'c')
 print('\n\nPARAMETROS ESPECIFICOS\n Presion=',pressure_add,'hPa','\n Humedad=',humidity_add,'%','\n Visibilidad=',visibility_add,'m','\n Velocidad del viento=',speed_add,'m/s','\n Porcentaje de nubosidad=',clouds_add,'%')
 print('\n\nPARAMETROS DE TIEMPO\n Fecha=',date_add,'\n Salida del sol=',sunrise_add,'\n Puesta del sol=',sunset_add)
 print('\n')
